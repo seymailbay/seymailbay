@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Şeyma</h1>
-<h3 align="center">A passionate junior software developer. Graduated from Up School which develops role model females in tech. </h3>
+<h3 align="center">
+I am a software developer and I am loving every moment of this new journey.
+Graduated from Up School, which is designed to develop female role models in tech.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seymailbay" alt="seymailbay" /></a> </p>
 

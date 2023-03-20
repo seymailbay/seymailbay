@@ -5,7 +5,7 @@ Graduated from Up School, which is designed to develop female role models in tec
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seymailbay" alt="seymailbay" /></a> </p>
 
-  - 🔭 I’m currently working on [Credit Application System](https://github.com/seymailbay/CreditApplicationSystem)
+  - 🔭 I’m currently working on [socialmediaapp] (https://github.com/seymailbay/social-media-application-project)
   
 - 🌱 I’m currently learning **Spring, React**
 

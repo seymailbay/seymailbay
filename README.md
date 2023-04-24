@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Şeyma</h1>
 <h3 align="center">
-I am a software developer and I am loving every moment of this new journey.
+I am a software specialist and I am loving every moment of this new journey.
 Graduated from Up School, which is designed to develop female role models in tech.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seymailbay" alt="seymailbay" /></a> </p>
 
   - 🔭 I’m currently working on [Social Media App](https://github.com/seymailbay/social-media-application-project)
   
-- 🌱 I’m currently learning **Spring, React**
+- 🌱 I’m currently learning **Selenium, JUnit **
 
 - 👨‍💻 All of my projects are available at [https://github.com/seymailbay](https://github.com/seymailbay)
 

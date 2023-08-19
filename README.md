@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Şeyma</h1>
 <h3 align="center">
-I am a software specialist and I am loving every moment of this new journey.
+I am a software QA specialist and I am loving every moment of this new journey.
 Graduated from Up School, which is designed to develop female role models in tech.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seymailbay" alt="seymailbay" /></a> </p>

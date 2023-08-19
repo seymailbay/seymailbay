@@ -7,7 +7,7 @@ Graduated from Up School, which is designed to develop female role models in tec
 
   - 🔭 I’m currently working on [Social Media App](https://github.com/seymailbay/social-media-application-project)
   
-- 🌱 I’m currently learning ** Selenium, JUnit **
+- 🌱 I’m currently learning ** Selenium, JUnit, Cypress **
 
 - 👨‍💻 All of my projects are available at [https://github.com/seymailbay](https://github.com/seymailbay)
 
